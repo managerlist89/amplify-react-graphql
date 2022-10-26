@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React With us
+          Mr.Wise is an Idiot!!!
         </a>
       </header>
     </div>
